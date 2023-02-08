@@ -1,0 +1,15 @@
+D:\ReactProject\ReactProject\bin\Debug\net6.0\ReactProject.exe
+D:\ReactProject\ReactProject\bin\Debug\net6.0\ReactProject.deps.json
+D:\ReactProject\ReactProject\bin\Debug\net6.0\ReactProject.runtimeconfig.json
+D:\ReactProject\ReactProject\bin\Debug\net6.0\ReactProject.dll
+D:\ReactProject\ReactProject\bin\Debug\net6.0\ReactProject.pdb
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.csproj.AssemblyReference.cache
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.AssemblyInfoInputs.cache
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.AssemblyInfo.cs
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.csproj.CoreCompileInputs.cache
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.dll
+D:\ReactProject\ReactProject\obj\Debug\net6.0\refint\ReactProject.dll
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.pdb
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ReactProject.genruntimeconfig.cache
+D:\ReactProject\ReactProject\obj\Debug\net6.0\ref\ReactProject.dll
