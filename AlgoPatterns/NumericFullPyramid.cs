@@ -51,6 +51,7 @@ namespace ReactProject
                         }
                     }
                 }
+                Console.WriteLine();
             }
         }
     }

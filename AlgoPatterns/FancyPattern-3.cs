@@ -10,16 +10,20 @@ namespace AlgorithmProject
     {
         public void FancyPattern(int n)
         {
+            Console.Write("* ");
+            Console.WriteLine();
             for (int rows = 0; rows < n; rows++)
             {
-                //first half
-                for (int col = 0; col < 2*n -(2*rows + 1); col++)
+                Console.Write("* ");
+                for (int col = 0; col < rows + 1; col++)
                 {
-                    if (col == 0 || col == (2 * n - (2 * rows)))
-                        Console.Write("* ");
-                    else
-                        Console.Write(col+" ");
+                    Console.Write(col + 1 + " ");
                 }
+                for (int col = 0; col < rows; col++)
+                {
+                    Console.Write(rows - col + " ");
+                }
+                Console.Write("* ");
                 Console.WriteLine();
             }
         }
