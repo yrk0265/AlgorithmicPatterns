@@ -1,9 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
 using AlgorithmProject;
+using AlgorithmProject.Arrays;
 using ReactProject;
 
-int n = 5;
 Console.WriteLine("--------------------------------------------------");
 //NumericFullPyramid numericFullPyramid = new NumericFullPyramid();
 //numericFullPyramid.FullPyramid(n);
@@ -30,7 +29,28 @@ Console.WriteLine("--------------------------------------------------");
 //FancyPattern_4 FancyPattern_4=new FancyPattern_4();
 //FancyPattern_4.Pattern4(4);
 Console.WriteLine("--------------------------------------------------");
-Patterns_4 Patterns_4=new Patterns_4();
-Patterns_4.Pattern(4);
+//Patterns_4 Patterns_4=new Patterns_4();
+//Patterns_4.Pattern(4);
 Console.WriteLine("--------------------------------------------------");
-Console.Read();
+
+
+Console.WriteLine("--------------------------------------------------");
+//int[] arr = { 2, 0, 2, 1, 1, 0 };
+//SortColors sortColors = new SortColors(arr);
+//sortColors.SortColorArray();
+Console.WriteLine("--------------------------------------------------");
+//int[,] matrices =
+//    {
+//        { 1, 2, 3, 4 },
+//        { 5, 6, 7, 8 },
+//        { 9, 10, 11, 12 }
+//    };
+//WavePrintMatrices mat = new WavePrintMatrices(matrices);
+//mat.PrintWaveMatrix();
+Console.WriteLine("--------------------------------------------------");
+Console.ReadKey();
+
+
+
+
+
