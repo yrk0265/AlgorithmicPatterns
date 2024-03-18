@@ -1,8 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using AlgorithmProject;
-using AlgorithmProject.Arrays;
-using AlgorithmProject.Sorting;
-using AlgorithmProject.Strings;
 
 
 Console.WriteLine("--------------------------------------------------");
@@ -68,8 +64,8 @@ Console.WriteLine("--------------------------------------------------");
 //YMediaLabsMatrices yMediaLabsMatrices =new YMediaLabsMatrices(matrices);
 //yMediaLabsMatrices.Swap();
 Console.WriteLine("--------------------------------------------------");
-int[][] matrices = new int[2][];
-matrices[0] = new int[] { 2, 3 };
+//int[][] matrices = new int[2][];
+//matrices[0] = new int[] { 2, 3 };
 //matrices[1] = new int[] { 5, 6, 7, 8 };
 //matrices[2] = new int[] { 9, 10, 11, 12 };
 //PrintSpiralMatix printSpiralMatix=new PrintSpiralMatix(matrices);
